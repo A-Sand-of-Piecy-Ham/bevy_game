@@ -1,0 +1,4 @@
+- see block
+- move around
+- player
+- place block
